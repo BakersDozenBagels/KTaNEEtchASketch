@@ -11,13 +11,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 615501dbe4f3fe94fbf4b564abb10237, type: 3}
   m_Name: ModConfig
   m_EditorClassIdentifier: 
-  id: nomai
-  title: Nomai
+  id: etchasketch
+  title: Etch-A-Sketch
   author: BakersDozenBagels
-  description: "Time travel? On my bomb?\r\n\r\nRegular module based on the excellent
-    game Outer Wilds. (Go play it!)\r\n\r\nModule id: nomai\r\nSource code: https://github.com/BakersDozenBagels/KTaNENomai\r\nManual
-    link: https://ktane.timwi.de/HTML/Nomai.html\r\n\r\nActually good visuals: Maybe
-    at some point"
+  description: "\u201CThis is your world\r\nYou\u2019re the creator\r\nFind freedom
+    on this canvas\r\nBelieve, that you can do it,\r\n\u2018Cuz you can do it.\r\nYou
+    can do it.\u201D\r\n\u2015 Bob Ross\n\r\nModule id: etchASketch\n\nNo manual,
+    but in the meantime just make some art and it'll solve. :)\nShake to erase."
   version: 0.1
   outputFolder: build
   previewImage: {fileID: 2800000, guid: 4f6d10f1fe300b94497c07c43d1bf3ce, type: 3}
